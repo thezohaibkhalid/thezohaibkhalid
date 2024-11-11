@@ -1,18 +1,21 @@
 # 💫 About Me:
-- Currently working on **Startup Project**: **Algorithm for Product Recommendation** using **Machine Learning**  
-- Passionate about **Advanced Machine Learning Algorithms**  
-- Currently exploring **Machine Learning** & **GoLang**  
-- You can ask me anything related to **Tech**  
+- A **MERN** Stack Developer 
+- 🔭 *Currently Working On: **Startup Project -------*
+- 🌱 *Learning*: Golang, AWS, Machine Learning Algorithms
+- 🤝 *Looking for help with*: Algorithms for recommendation systems in ML
+- 💬 *Ask me about: **Anything realated to teach*
+- 📫 *Reach me at: **zohaibkhalid.pk@gmail.com*
+- 🎨 *Hobbies: Exploring **Machine Learning* in my free time! 
 - Fun fact: Former **Medical Student**  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thezohaibkhalid) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thezohaibkhalid1) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zohaib-khalid-34307331b/) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/thezohaibkhalid) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thezohaibkhalid) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thezohaibkhalid) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thezohaibkhalid) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCqg0zvsSP24oTjEtBbp6_aQ) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://m.youtube.com/@zohaibkhalid2) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/thezohaibkhalid) 
 
 # 💻 Tech Stack:
@@ -60,11 +63,25 @@
 ![](https://github-readme-stats.vercel.app/api?username=thezohaibkhalid&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thezohaibkhalid&theme=dark&hide_border=false)<br/>
 
+---
+
 # 📈 GitHub Contributions:
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=thezohaibkhalid&theme=react-dark&hide_border=true)<br/>
+
+---
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=thezohaibkhalid&theme=radical&no-frame=true&no-bg=true)<br/>
 
+---
+
 ## 🧑‍💻 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thezohaibkhalid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+### 🚀 LeetCode Profile
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/thezohaibkhalid?theme=dark&ext=activity" alt="LeetCode Profile" />
+</p>
+
