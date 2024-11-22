@@ -1,11 +1,11 @@
 # 💫 About Me:
 - A **MERN** Stack Developer 
-- 🔭 *Currently Working On: **Startup Project -------*
+- 🔭 Currently Working On: **Startup Project -------*
 - 🌱 *Learning*: Golang, AWS, Machine Learning Algorithms
 - 🤝 *Looking for help with*: Algorithms for recommendation systems in ML
-- 💬 *Ask me about: **Anything realated to teach*
-- 📫 *Reach me at: **zohaibkhalid.pk@gmail.com*
-- 🎨 *Hobbies: Exploring **Machine Learning* in my free time! 
+- 💬 Ask me about: *Anything realated to teach*
+- 📫 *Reach me at: *zohaibkhalid.pk@gmail.com*
+- 🎨 Hobbies: Exploring **Machine Learning** in my free time! 
 - Fun fact: Former **Medical Student**  
 
 
